@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50682873-e861-46f2-a285-2d5367cc568c" name="Changes" comment="'Try и Except'">
-      <change afterPath="$PROJECT_DIR$/module_8_2.py" afterDir="false" />
+    <list default="true" id="50682873-e861-46f2-a285-2d5367cc568c" name="Changes" comment="Сложные моменты и исключения в стеке вызовов функции">
+      <change afterPath="$PROJECT_DIR$/module_8_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.module_8_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.module_8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_3.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
@@ -100,12 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728073677276</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Сложные моменты и исключения в стеке вызовов функции">
+      <option name="closed" value="true" />
+      <created>1728149473883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728149473883</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Try и Except" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try и Except" />
+    <MESSAGE value="Сложные моменты и исключения в стеке вызовов функции" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сложные моменты и исключения в стеке вызовов функции" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
